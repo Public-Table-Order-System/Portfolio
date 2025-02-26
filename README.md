@@ -75,7 +75,9 @@ Mail  : taylor1718@naver.com
 
 Git : https://github.com/LEE-GEEWOO
 
-Blog     :  https://akairo.tistory.com/
+Project Blog     :  https://akairo.tistory.com/
+
+Study Blog : https://1ab6.tistory.com/
 
 ---
 
